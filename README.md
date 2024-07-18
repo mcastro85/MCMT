@@ -31,6 +31,3 @@ MCMT provides an intuitive and organized interface with a main form divided into
 - **User-Friendly:** Designed with a focus on ease of use, making it accessible even for those who may not be PowerShell experts.
 - **Integration:** Seamlessly integrates with Azure Storage and CrowdStrike, expanding the tool’s capabilities beyond local system management.
 
----
-
-This description highlights the core functionalities and benefits of your tool, making it clear to someone unfamiliar with it.
